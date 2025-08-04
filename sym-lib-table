@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tangnano9k")(type "KiCad")(uri "/home/yasushi/Documents/KiCad/user_lib/tangnano/tangnano9k.kicad_sym")(options "")(descr ""))
+)
