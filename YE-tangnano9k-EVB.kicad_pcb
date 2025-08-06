@@ -11734,10 +11734,10 @@
 		(uuid "21c9e117-821c-4a44-8922-fb923a6001bd")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 1.5 1.5)
+				(thickness 0.1875)
 			)
-			(justify left)
+			(justify left bottom)
 		)
 	)
 	(gr_text "_{IOB}13B"
