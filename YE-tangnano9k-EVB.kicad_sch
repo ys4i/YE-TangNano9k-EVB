@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "TangNano9k-EValuationBoard")
-		(date "2025-08-06")
+		(date "2025-08-18")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x24_Socket"
