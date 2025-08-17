@@ -6030,7 +6030,7 @@
 			)
 		)
 		(fp_text user "+"
-			(at -0.01 2.54 0)
+			(at -0.01 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "f86ce26f-fa68-423c-bb8a-76ebbc6cf1fb")
 			(effects
