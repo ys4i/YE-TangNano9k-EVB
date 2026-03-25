@@ -1,0 +1,12 @@
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.kicad_prl
+
+.history/
+fp-info-cache
+production/
+YE-tangnano9k-EVB-backups/
+
+fabrication-toolkit-options.json
