@@ -19,8 +19,8 @@ Tang Nano 9Kを用いた評価用ボードです。KiCad 9.0.3で設計されて
 - `YE-tangnano9k-EVB.kicad_pro` : プロジェクト設定ファイル
 - `YE-tangnano9k-EVB.kicad_sch` : 回路図
 - `YE-tangnano9k-EVB.kicad_pcb` : 基板レイアウト
+- `docs/YE-tangnano9k-EVB.pdf` : 回路図・基板図の閲覧用PDF
 - `sym-lib-table` : シンボルライブラリ設定
 
 ## 使い方
 KiCad 9.0以降で `.kicad_pro` ファイルを開き、回路図や基板データを編集してください。ファイル形式の詳細は [KiCad File Formats Documentation](https://dev-docs.kicad.org/en/file-formats/index.html) を参照してください。
-
